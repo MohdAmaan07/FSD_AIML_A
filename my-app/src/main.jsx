@@ -10,8 +10,6 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Header />
     <App />
-    <Greeting name = 'Amaan' age = {20} />
-    <Greeting/>
     <Footer />
   </StrictMode>,
 )
